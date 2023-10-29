@@ -12,6 +12,6 @@ communication infrastructures may not function efficiently or at all.
 - Scrollable chat log ✨
 - Notification of unread incoming messages 📨
 
-> Written in Rust
+> Written in Rust 
 > Powered by dtn7-rs
 
