@@ -11,6 +11,8 @@ communication infrastructures may not function efficiently or at all.
 - ... and their states (Near/Away) 🟢🔴
 - Scrollable chat log ✨
 - Notification of unread incoming messages 📨
+  
+![sending](https://github.com/chanhyy/DTN-Chat-Client/assets/92930292/9a429a3e-4bf7-4dfe-aa70-70580761dcd5)
 
 ![peersupdates](https://github.com/chanhyy/DTN-Chat-Client/assets/92930292/28af4f03-e3f4-431d-97d9-462db491f7c5)
 
