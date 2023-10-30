@@ -12,6 +12,8 @@ communication infrastructures may not function efficiently or at all.
 - Scrollable chat log ✨
 - Notification of unread incoming messages 📨
 
+![peersupdates](https://github.com/chanhyy/DTN-Chat-Client/assets/92930292/28af4f03-e3f4-431d-97d9-462db491f7c5)
+
 > Written in Rust
 > Powered by dtn7-rs
 
